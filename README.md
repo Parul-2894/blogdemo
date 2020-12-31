@@ -1,5 +1,5 @@
-#blogdemo
+# blogdemo
 This is a blog building repo
 
-##Description
+## Description
 THis uses flask , html css js and bootstrap
